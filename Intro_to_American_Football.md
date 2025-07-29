@@ -6,16 +6,16 @@ American football is a uniquely complex and captivating sport, a game of territo
 
 ## Rules and Structure
 
-At its core, American football is a game of gaining territory. The objective is to advance an oblong-shaped ball down the field and into a designated scoring area, the **end zone**.
+At its core, American football is a game of gaining territory. The objective is to advance an olive-shaped ball (it's called "olive ball" in China!) down the field and into a designated scoring area, the **end zone**.
 
-**The Field:** A standard American football field is a rectangle measuring 120 yards long by 53 1/3 yards wide. The playing area is 100 yards long, marked with a yard line every 5 yards and hash marks for every single yard. At each end of the 100-yard field is a 10-yard **end zone**. Centered on the back line of each end zone are the goalposts, which are used for kicking plays (NFL, 2023).
+**The Field:** A standard American football field is a rectangle measuring 120 yards long by 53 1/3 yards (160 feet) wide. The playing area is 100 yards long, marked with a yard line every 5 yards and hash marks for every single yard. At each end of the 100-yard field is a 10-yard **end zone**. Centered on the back line of each end zone are the goalposts, which are used for kicking plays (NFL, 2023).
 
 **Game Duration:** A game is divided into four 15-minute quarters, separated by a halftime break. However, the game clock stops frequently for various reasons, such as an incomplete pass, a player running out of bounds, or a penalty. This stop-start nature means a typical professional game lasts over three hours.
 
 **The Downs System:** The defining feature of American football is the **downs system**. The team with possession of the ball (the **offense**) has four chances, or **downs**, to advance the ball at least 10 yards.
 * If the offense successfully gains 10 or more yards within four downs, they earn a **first down**, which resets the cycle, giving them a fresh set of four downs to gain another 10 yards.
 * If, after three downs, the offense has not yet gained 10 yards, they face a critical decision on fourth down. They can either:
-    1.  **Punt:** Kick the ball to the opposing team, giving them possession far down the field. This is a common strategic choice to avoid giving the opponent good field position.
+    1.  **Punt:** Kick the ball to the opposing team, giving them possession far down the field. This is a common strategic choice to avoid giving the opponent good field position. (The closer a team is to the opponent’s end zone, the higher its chances of scoring. This distance from the starting point of an offensive drive to the opponent’s end zone is known as field position. A team is said to have better field position when it begins its drive closer to the opponent’s end zone.)
     2.  **Attempt a Field Goal:** If close enough to the opponent's goalposts, they can kick the ball through the uprights to score points.
     3.  **"Go for it":** Attempt a final play to gain the remaining yards needed for a first down. This is a high-risk, high-reward play; if they fail, the opposing team takes possession of the ball at that exact spot.
 
@@ -30,7 +30,7 @@ A football team consists of 53 players at the professional level but only 11 are
 **Offense:** The unit that has possession of the ball and tries to score. Key positions include:
 * **Quarterback (QB):** The leader of the offense. The QB calls the play in the huddle, receives the ball from the center, and then either throws it to a receiver, hands it to a running back, or runs with it themselves. This is the most scrutinized position in sports.
 * **Offensive Line:** A group of five players (a Center, two Guards, and two Tackles) who are responsible for blocking the defense to protect the quarterback or clear paths for running backs. They are the unsung heroes of the offense.
-* **Running Back (RB):** Lines up in the backfield and specializes in running with the ball. Also known as a Halfback or Fullback.
+* **Running Back (RB):** A player who lines up in the offensive backfield and is primarily responsible for running with the ball, catching passes, and blocking. The term "Running Back" is a general category that includes both **Halfbacks (HB)**—typically the main ball carriers—and **Fullbacks (FB)**—who are usually larger and often used for blocking and short-yardage situations.
 * **Wide Receiver (WR):** Specializes in running routes downfield to catch passes thrown by the quarterback.
 * **Tight End (TE):** A hybrid player who lines up near the offensive line and acts as both a blocker and a receiver.
 
@@ -74,9 +74,9 @@ American football is played at various levels, but the most prominent are high s
 
 * **High School Football:** Governed by state-level athletic associations, high school football is immensely popular across the United States. Teams are typically organized into divisions based on school size, with champions crowned through state playoff tournaments.
 
-* **College Football (NCAA):** The National Collegiate Athletic Association (NCAA) oversees college football. The highest level is **Division I**, which is split into the **Football Bowl Subdivision (FBS)** and the **Football Championship Subdivision (FCS)**. The FBS is composed of larger schools organized into conferences (e.g., SEC, Big Ten). For decades, its champion was determined by polls, but it now uses a four-team **College Football Playoff** to crown a national champion (NCAA, 2023).
+* **College Football (NCAA):** The National Collegiate Athletic Association (NCAA) oversees college football. The highest level is **Division I**, which is split into the **Football Bowl Subdivision (FBS)** and the **Football Championship Subdivision (FCS)**. The FBS is composed of larger schools organized into conferences (e.g., SEC, Big Ten). For many decades, college football’s national champion was determined by polls and rankings. In 2014, the College Football Playoff (CFP) introduced a four‑team single-elimination tournament to crown a champion. More recently, beginning with the 2024 season, the CFP expanded to a **12‑team playoff format**. The most recent national champion—**Ohio State**—secured the title by defeating **Notre Dame**, 34‑23, during the inaugural 12‑team championship game.
 
-* **National Football League (NFL):** The pinnacle of the sport. The NFL consists of 32 teams, divided equally into two conferences: the American Football Conference (AFC) and the National Football Conference (NFC). Each conference is further divided into four divisions (North, South, East, West). After an 18-week regular season, 14 teams (7 from each conference) advance to a single-elimination playoff tournament. The conference champions then face off in the **Super Bowl**, one of the most-watched sporting events in the world (NBC Sports, 2024).
+* **National Football League (NFL):** The pinnacle of the sport. The NFL consists of 32 teams, divided equally into two conferences: the American Football Conference (AFC) and the National Football Conference (NFC). Each conference is further divided into four divisions (North, South, East, West). After an 18-week regular season, 14 teams (7 from each conference) advance to a single-elimination playoff tournament. The conference champions then face off in the **Super Bowl**, one of the most-watched sporting events in the world (NBC Sports, 2024). In Super Bowl LIX on February 9, 2025, the NFC champion **Philadelphia Eagles** convincingly defeated the AFC champion **Kansas City Chiefs**, 40–22, denying the Chiefs a historic three‑peat.
 
 ---
 
