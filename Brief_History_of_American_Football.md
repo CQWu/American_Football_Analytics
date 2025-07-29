@@ -4,7 +4,7 @@
 
 ---
 
-**Abstract:** American football, a sport synonymous with the United States, did not emerge fully formed. It was forged over more than a century of innovation, conflict, and cultural integration. From its violent, chaotic origins on college campuses in the 19th century to its modern-day status as a multi-billion-dollar entertainment juggernaut, football's story is a uniquely American one. This chapter traces the evolution of the sport from its rugby and soccer roots, through the standardizing influence of figures like Walter Camp, the rise of collegiate and professional leagues, the transformative impact of technology and media, and its deep, often complex, relationship with American culture, society, and identity.
+**Abstract:** American football, a sport synonymous with the United States, did not emerge fully formed. It was forged over more than a century of innovation, conflict, and cultural integration. From its violent, chaotic origins on college campuses in the 19th century to its modern-day status as a multi-billion-dollar entertainment juggernaut, football's story is a uniquely American one. This writing traces the evolution of the sport from its rugby and soccer roots, through the standardizing influence of figures like Walter Camp, the rise of collegiate and professional leagues, the transformative impact of technology and media, and its deep, often complex, relationship with American culture, society, and identity.
 
 ---
 
